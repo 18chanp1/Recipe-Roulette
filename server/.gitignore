@@ -1,0 +1,6 @@
+# Server
+secrets/firebase_admin.json
+package-lock.json
+node_modules/
+draft.js
+public/crashes.txt
